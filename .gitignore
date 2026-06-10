@@ -1,0 +1,5 @@
+venv/
+chroma_db/
+temp.pdf
+.env
+__pycache__/
