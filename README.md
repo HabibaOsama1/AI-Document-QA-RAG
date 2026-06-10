@@ -12,17 +12,17 @@ Users can upload PDF documents and ask natural language questions. The system re
 
 ### Main Interface , Example Question & Answer
 
-![App UI](assets/app-uiandex.png)
+![App UI](assets/app-ui and ex.PNG)
 
 ### Vector Retrieval Logic
 
-![Vector Retrieval Logic](assets/retlogic.png)
+![Vector Retrieval Logic](assets/ret logic.png)
 
 ---
 
 ## Architecture
 
-![Architecture](assets/projectarchitecture.png)
+![Architecture](assets/project architecture.png)
 
 ---
 
